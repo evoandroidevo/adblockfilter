@@ -1,0 +1,2 @@
+! allows thumbnails on animepahe.com
+@@||i-animepahe-com.cdn.ampproject.org^$image,domain=animepahe.com
