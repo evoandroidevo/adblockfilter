@@ -1,2 +1,8 @@
+! Title: evo's — 🍱 Anime streaming filter
+! Expires: 1 days
+! Homepage: https://github.com/evoandroidevo/adblockfilter
+! Description: Personal filters for anime streaming
+
+
 ! allows thumbnails on animepahe.com
 @@||i-animepahe-com.cdn.ampproject.org^$image,domain=animepahe.com
