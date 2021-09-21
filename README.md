@@ -11,5 +11,5 @@ This filter
 Recommend filter
 https://oisd.nl/
 
- [[Subscribe]](https://subscribe.adblockplus.org/?location=https://abp.oisd.nl/)
+ [[Subscribe]](https://subscribe.adblockplus.org/?location=https://abp.oisd.nl/&title=abp.oisd.nl)
 
