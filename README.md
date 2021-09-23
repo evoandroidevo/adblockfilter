@@ -15,7 +15,7 @@ This filter:
     - https://oisd.nl/ 
     - [[Subscribe]](https://subscribe.adblockplus.org/?location=https://abp.oisd.nl/&title=abp.oisd.nl)
 
-- List for anime sites helps with the [MAL-Sync extension](https://malsync.moe/) [(Github Link)](https://github.com/Karmesinrot/MALSync) 
+- List for anime sites helps with the [MAL-Sync extension](https://malsync.moe/) [(Github Link)](https://github.com/MALSync/MALSync) 
 
     - https://github.com/Karmesinrot/Anifiltrs
     - [[Subscribe]](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Karmesinrot/Anifiltrs/master/Anifltrs.txt&title=Anifiltrs%20%E2%80%94%20%F0%9F%8D%B1%20Anime%20streaming%20%26%20Manga%20reading)
