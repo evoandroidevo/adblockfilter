@@ -1,7 +1,11 @@
-! Title: evo's — 🍱 Anime streaming filter
+! Title: いか's — 🍱 Anime streaming filter
 ! Expires: 1 days
 ! Homepage: https://github.com/evoandroidevo/adblockfilter
-! Description: Personal filters for anime streaming
+! Description: filters for anime streaming
+
+!This Source Code Form is subject to the terms of the Mozilla Public
+!License, v. 2.0. If a copy of the MPL was not distributed with this
+!file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ! allows thumbnails on animepahe.com
