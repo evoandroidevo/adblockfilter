@@ -20,6 +20,8 @@ This filter:
     - https://github.com/Karmesinrot/Anifiltrs
     - [[Subscribe]](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Karmesinrot/Anifiltrs/master/Anifltrs.txt&title=Anifiltrs%20%E2%80%94%20%F0%9F%8D%B1%20Anime%20streaming%20%26%20Manga%20reading)
 
+ ***
+
 ### Animepahe.com site info
 
-pahe.win was used for bookmarking a show on the site. It has since broke/ or taken down and no longer works. If you use the [MAL-Sync extension](https://malsync.moe/) there is this [github issue](https://github.com/MALSync/MALSync/issues/840) explaining it. In the github issue of mal-sync one of the devs posted a userscript for [greasemonkey](https://greasyfork.org/en/help/installing-user-scripts) [here](https://greasyfork.org/en/scripts/432078-animepahe-bookmark-url-fixer/code)
+pahe.win was used for bookmarking a show on the site. It has since been taken down and no longer works. If you use the [MAL-Sync extension](https://malsync.moe/) there is this [github issue](https://github.com/MALSync/MALSync/issues/840) explaining it. In the linked github issue of mal-sync one of the devs posted a userscript for [greasemonkey](https://greasyfork.org/en/help/installing-user-scripts) [here](https://greasyfork.org/en/scripts/432078-animepahe-bookmark-url-fixer/code)
