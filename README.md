@@ -1,5 +1,5 @@
 
-# いか's ad block filter
+# いか's (ika) ad block filter
 
 This filter is for adding back stuff that got blocked but breaks downloading / viewing of videos on animepahe.com or new ads that take a few days to get blocked. To add this list or any of the recommended lists hit [Subscribe]. It should open a page that shows the contents of the list with a button in the top right of the screen that says subscribe. After hitting the button in the top right the filter will get added to your ad blocking extension and will auto-update 
 
